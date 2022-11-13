@@ -1,6 +1,6 @@
 # Overview
 Das Repository heißt zwar "Fourier_Analysis" wird
-aber auch allgemeinerer Dinge behandeln, wie z.B.:  
+aber auch allgemeinere Dinge behandeln, wie z.B.:  
 * Orthonormale Funktionsbasis  
 * Fourier Reihen  
 * Euler Formel  
